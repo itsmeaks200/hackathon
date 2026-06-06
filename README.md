@@ -6,6 +6,10 @@
 
 ---
 
+> **Primary submission:** `solution_fast.ipynb` is the most optimal submission — it produces the highest scoring result (`Sol_55212.csv`, OOF AP **0.52111**). Because it takes significant time to retrain from scratch, an iterative single-model run is provided in `notebook-kaggle.ipynb`, which is fully self-contained and can be run independently without any cache. The original, definitive submission remains `solution_fast.ipynb`.
+
+---
+
 ## Submission Files
 
 | File | Notebook | OOF AP | OOF AUC | Notes |
