@@ -1,5 +1,8 @@
 # Offside Datathon — Final Submission
 
+> **Primary Submission:** `solution_fast.ipynb` → `Sol_55212.csv` (OOF AP **0.52111**)  
+> `notebook-kaggle.ipynb` is a fully standalone iterative alternative that can be run independently without any cache.
+
 **Task:** Predict whether a player scores ≥1 goal in a match (`scored_flag`, binary classification).  
 **Metric:** Average Precision (PR-AUC). Positive rate 8.54% → random baseline AP ≈ 0.085.  
 **Best OOF AP:** **0.52050** — 6.1× over the random baseline.
